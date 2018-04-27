@@ -1,0 +1,3 @@
+[submodule "find_store/code-challenge"]
+	path = find_store/code-challenge
+	url = https://github.com/groveco/code-challenge.git
