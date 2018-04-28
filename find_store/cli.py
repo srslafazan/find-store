@@ -27,8 +27,6 @@ from geopy.geocoders import Nominatim
 from geopy.distance import geodesic
 sys.path.append(os.path.join(os.path.dirname(__file__)))
 
-from inspect import getmembers, isclass
-
 from docopt import docopt
 
 from . import __version__ as VERSION
